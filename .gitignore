@@ -1,0 +1,65 @@
+# Dependencies
+node_modules/
+
+# TypeScript / origin verifier build outputs (fully regenerable)
+dist/
+dist-origin/
+
+# Local / generated Pack Manager state
+.releases/
+data/current.json
+data/manifest.generated.json
+data/resourcepacks.json
+data/serverDatapacks.json
+data/candidates/
+data/releases/
+data/release/
+data/publish/
+data/publish-*/
+data/publish-prod/
+data/publish-test/
+data/cache/
+data/*.generated.*
+# Portable tracked examples/fixtures remain visible (resourcepacks.example.json, data/fixtures/)
+
+# Env / secrets / private signing material (never commit)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cer
+*id_rsa*
+*id_ed25519*
+*private*key*
+trusted-keys.local.json
+secrets/
+.secrets/
+
+# Archives / dumps / temp
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.log
+*.tmp
+*.bak
+.tmp/
+tmp/
+temp/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS / misc
+*.local

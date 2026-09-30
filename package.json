@@ -1,0 +1,44 @@
+{
+  "name": "sweetcraft-pack-manager",
+  "version": "0.9.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "tsx --test src/**/*.test.ts",
+    "pack:status": "tsx src/cli.ts status",
+    "pack:validate": "tsx src/cli.ts validate",
+    "pack:diff": "tsx src/cli.ts diff",
+    "pack:manifest": "tsx src/cli.ts manifest",
+    "pack:scan": "tsx src/cli.ts scan",
+    "pack:resolve:modrinth": "tsx src/cli.ts resolve-modrinth",
+    "pack:resolve:curseforge": "tsx src/cli.ts resolve-curseforge",
+    "pack:resolve:providers": "tsx src/cli.ts resolve-providers",
+    "pack:configs": "tsx src/cli.ts classify-configs",
+    "pack:curate": "tsx src/cli.ts curate",
+    "pack:manifests": "tsx src/cli.ts manifests",
+    "pack:stage": "tsx src/cli.ts stage",
+    "pack:preflight-stage": "tsx src/cli.ts preflight-stage",
+    "pack:release-preflight": "tsx src/cli.ts release-preflight",
+    "pack:validate-resourcepacks": "tsx src/cli.ts validate-resourcepacks",
+    "pack:verify-release": "tsx src/cli.ts verify-release",
+    "pack:verify-channel": "tsx src/cli.ts verify-channel",
+    "pack:publish": "tsx src/cli.ts publish",
+    "pack:verify-origin": "tsx src/cli.ts verify-origin",
+    "pack:upload": "tsx src/cli.ts upload",
+    "pack:build-origin-verifier": "node scripts/build-origin-verifier.mjs"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16"
+  },
+  "devDependencies": {
+    "@types/adm-zip": "^0.5.7",
+    "@types/node": "^24.3.0",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "packageManager": "pnpm@9.15.9"
+}

@@ -1,0 +1,1025 @@
+{
+  "schema": "pax-baseline-inventory-v1",
+  "kind": "historical-artefacts",
+  "project": "pm",
+  "root": "H:\\Users\\kevin\\Downloads\\Dev\\Pax Horizon\\Minecraft\\LAUNCHER\\PaxCraft-PackManager-v0.1",
+  "generatedAtUtc": "2026-09-30T19:50:18.709362+00:00",
+  "fileCount": 169,
+  "note": "Artefacts historiques inventoriés séparément; non supprimés; ne constituent pas une preuve de provenance Git Pax.",
+  "files": [
+    {
+      "path": "data/cache/modrinth/29f5dd94b48eef10c06d4b8bbd0b03daa8c6740c0e3af6635589d35e1018e7681de15239547d3a34.json",
+      "size": 214879,
+      "sha256": "b8151a40cba12600c606c698f6ecd5bca81837de1453eb3228349e440181bf28",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/cache/modrinth/58d19a4552fa6593c9bae2df85c733585a2376b324248e90d34995853fef0afaaf324a7f6823693c.json",
+      "size": 39400,
+      "sha256": "337f2c927b03ba2cd4adb76aff8e8907b2bdbee764e7d6c0d369f1140d402b60",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/cache/modrinth/7d0dcd87b050c055dda100c0d1e4917479eca64c86e82c393383e5b04ee32a119126086fcf250d63.json",
+      "size": 58695,
+      "sha256": "aba78e83fbb6fba04b3bf901ed4678cf867b34da969baafe2f884a436f177cff",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/cache/modrinth/bdf677aad7e1c9497d2b7ebec925b65d737d6c4643145cf94d7acb68dbf6d21e18304419a7aba6c5.json",
+      "size": 199858,
+      "sha256": "39409602c6fcd63a7ee3c82a7216e29febaf65976bf756f2bc1ac7a20dd12004",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/cache/modrinth/d8f8ecbc8f4769e9c225d5c7eb9aac0c66fdcaae92bd1e1dea74282b2d24337c7a5bb63ecf3b1465.json",
+      "size": 45111,
+      "sha256": "108d8cb5fa14d1ee359d8778c264a41f3fb679035d2d8719cc0e6ccaf602cd93",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/AUDIT_REPORT.json",
+      "size": 8395,
+      "sha256": "e033765b0c1aacb75e4405f6374ec97074a0fd5d1facff9bbe9b4bdf93e1c302",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/CANDIDATE_META.json",
+      "size": 337,
+      "sha256": "53e66461cc8f4c86abb3d00e3c0a561ffa93eb9eda8a78a5f48fa138cc4e624e",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/CLEAN.mods.fingerprint.after.txt",
+      "size": 25021,
+      "sha256": "022452a8c283ab7f722cf988626ba6c95a46c82c02e00b226a519c6149b9d429",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/CLEAN.mods.fingerprint.before.txt",
+      "size": 25021,
+      "sha256": "022452a8c283ab7f722cf988626ba6c95a46c82c02e00b226a519c6149b9d429",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/FTB_CURSEFORGE_RESOLVE.json",
+      "size": 2543,
+      "sha256": "587a8d7166d3441eeb6ac5dde7d71f0e994214a4bba87c92dbf9be3d689a4ffc",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/NOT_A_RELEASE.txt",
+      "size": 72,
+      "sha256": "71ab9e441bca702198bdcd8f5b322b30719646eb7490de63c69dc6b35cf7dfea",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/RELEASE_0.1.3_LOCAL_PUBLISH_REPORT.json",
+      "size": 5372,
+      "sha256": "c7227d84da01f1598df3b1cf06cd583fed750eed1bad3982a26ab3c0792088b7",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/RELEASE_0.1.3_SIGNED_REPORT.json",
+      "size": 2348,
+      "sha256": "e9a98fb6f6e2fdc2e3c40c2df8e46c3af0888070202158fdc23418a96fa66715",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/RELEASE_0.1.3_STAGE_REPORT.json",
+      "size": 9047,
+      "sha256": "680de56a9b39f3bfc97334e59ed904932b8573ceffdc532ff43b6a3611949657",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/REMOTE_PUBLISH_0.1.3_REPORT.json",
+      "size": 1580,
+      "sha256": "d4cfe7d51c708c4e5570169bb4459ddc58e4f14bd177b82cd6dfd9cc72eedf34",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/STAGE_PREFLIGHT.json",
+      "size": 63727,
+      "sha256": "df257c29bd480213f56bea36ed1a335bb272385d3a066afe352de5ac12075c10",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/amc.json",
+      "size": 43713,
+      "sha256": "f4365ebb695576010bd9045f15ffca1673e6c8d694cce26a7f0a681aef1942f1",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/beautify.json",
+      "size": 118,
+      "sha256": "285f55d00f7e50b3e6191e22fc02083dd3648e1fe717da6a20a59bfc84044fab",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/carryon-client.json",
+      "size": 796,
+      "sha256": "9909d01cf9427ea5d70a66b5c52d2fb7c5e414d410c2e20ae58460661e780de5",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/carryon-common.json",
+      "size": 11207,
+      "sha256": "43efb4b904e7888fc0cb4f9871625e0a0c99dd87e91c9471c67eadbebe5a5199",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/codxlib.json",
+      "size": 33,
+      "sha256": "9bbcd79887fd495801e28733a5c4e59b6ba7a1a51c45c6782d03804e6557abef",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/creativecore-client.json",
+      "size": 23,
+      "sha256": "acb6c8c1394d4d6f2d0c98d5c314c5ef8ad34b8a76f0a420fc596733bcbc51ac",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/creativecore.json",
+      "size": 274,
+      "sha256": "5f08d0878d7f89c6b4c947a49dce368d7738255d44fecf9aad59ec6ae8a4fcef",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/enchdesc.json",
+      "size": 2186,
+      "sha256": "4fb5cb608bfd085f88021026cdd43a65b79e09271a8881f75c46e19c3f00736c",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/entityculling.json",
+      "size": 2228,
+      "sha256": "e92e6772c4b6ec28b9c179c80831d56d11fc65064591424a120133d397b2ab49",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/explorerscompass.json",
+      "size": 2829,
+      "sha256": "2d47b22442868ca000a5eab03fab73c6ca7bb3e65b9eb36c37122ed173a44010",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/fabric_simple_generator.json",
+      "size": 653,
+      "sha256": "058f823e9acbde1ac6e5e58f3818640aae804343327cb8480d3d890cc749ea6a",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/fallen.json",
+      "size": 290,
+      "sha256": "a359118099836306b4c7b2f155da098870b99e3b49db8a694db2c156fcdf411c",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/fallingleaves2.json",
+      "size": 674,
+      "sha256": "cb9d4d481a63cddaf7e90a3e3f8c5bb134cd0be8f1401b1f808c55bf0ab4572f",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/fallingtree.json",
+      "size": 1313,
+      "sha256": "9704d03d869a866e68c5e783025c8720df6d35e3e76c56080e08e9bf6473a341",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/farmersdelight-client.json",
+      "size": 281,
+      "sha256": "bc7d65ca1c81b0316131863b10385e8790e57fdd4f3ec53bc1fc53fce489fe53",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/farmersdelight-common.json",
+      "size": 1207,
+      "sha256": "2b30d437183d307fdda8e3053a12f9be4434a90f383e5facd08af34fb05d35ba",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/friendsandfoes.json",
+      "size": 2028,
+      "sha256": "358a049568d9031aed9ae78615c99bc70b8d3f5b03c71e5a28057ffe28d03179",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/immediatelyfast.json",
+      "size": 1023,
+      "sha256": "9a1ae7577440d36732b4d34885195b37423a3e8b906ff8602220bc0447969d15",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/iris-excluded.json",
+      "size": 31,
+      "sha256": "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/journeymap-server.json",
+      "size": 67,
+      "sha256": "2b77ff82093eb3698b79b2b953806855d1880d414544a8158f41b028d8e293ca",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/lingua_bib.json",
+      "size": 29,
+      "sha256": "986ed19ef024b1c4dd2ff7b31bef04eb5609bfa23bf1fa2b319258513c80e44a",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/litematica.json",
+      "size": 13122,
+      "sha256": "b233781cc531e5948c7737fbe8dbd3c19c73573e89c4652892ede5ce412a5e2e",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/lithostitched.json",
+      "size": 242,
+      "sha256": "43e35f01fceb40ba4689584c447ae842edf22fe86131f30f5108aae55b1b5ca6",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/malilib.json",
+      "size": 1145,
+      "sha256": "d74e5c538aeeac41023eaabc5c1f49e07e6d25d021ab41366e133348e9c8ad97",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/mcendgame.json",
+      "size": 27,
+      "sha256": "85057580787344ebb91c3e4fd65c2daf6f9e67f6278a521a6eebdadac0f58e9c",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/modmenu.json",
+      "size": 840,
+      "sha256": "16d20c40cc6c114faff5493b561873fe160a65047720bc19fb3a3dd64aa67f3b",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/naturescompass.json",
+      "size": 2865,
+      "sha256": "e80fea0ce55921b76930f2ee0a8e838bb2cb0d84fa03802182c9960cfa706e50",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/nearby_inventory.json",
+      "size": 17,
+      "sha256": "c8964229efd99d79d7f58c4c2251cb50cc5b9d2c3cd410c3f9e0dc427aac8f7d",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/resourceful-config-web.json",
+      "size": 196,
+      "sha256": "644607c9a5a9aa4fa6d050f309b3067d655ac7c81c7a5cc27346c6edc281b8bd",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/sodium-extra-options.json",
+      "size": 2110,
+      "sha256": "c6d02a294a6615c01075925e5d33a15dd513e4ab128bb96dd77d2cf13a4e336b",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/sodium-options.json",
+      "size": 817,
+      "sha256": "680378d5c81a30954b884ac97e652dae550619876df8fb7997e2a6e9dc3fc489",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/terralith.json",
+      "size": 236,
+      "sha256": "af469436b99b83c0698e2263320bcc5395cc06c8e0fa3f0d0e2e6216d7e08b6d",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/transition.json",
+      "size": 97,
+      "sha256": "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/trender.json",
+      "size": 47,
+      "sha256": "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/trinkets.json",
+      "size": 309,
+      "sha256": "0b23e8459020ef90f8c9cbe404c08170c19c1fde8a197972dd924504b70c4445",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/_canonical-merged-config-source/config/zoomify.json",
+      "size": 708,
+      "sha256": "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/client-manifest.json",
+      "size": 136915,
+      "sha256": "b742ab650a8407ccf78ecedfe6c0f0554ba6555153235f26e36ac21ba039919f",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/dry-run-release-hosted/0.1.3/checksums.json",
+      "size": 55022,
+      "sha256": "261a99c2cd26ebc1321631ec63d9ee6b87915673f6ba66c0bbd9ed765d6ebe02",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/dry-run-release-hosted/0.1.3/client-manifest.json",
+      "size": 137928,
+      "sha256": "90f5589aa21da9164c8efc61975d9128f3d1a9c709ebaaf01fdb13651e448a2d",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/dry-run-release-hosted/0.1.3/release.json",
+      "size": 1285,
+      "sha256": "85b7005c16c2d18cc3bc4f62e4d218e1ad1807d4233c55bd94da1c00a6e1a891",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/dry-run-release-hosted/0.1.3/server-manifest.json",
+      "size": 123087,
+      "sha256": "07e68286cdd28f4f5c16f837a64f9d8544f75caaac5e53cff24a9e7e36ea4dd8",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/dry-run-release-hosted/DRY_RUN_REPORT.json",
+      "size": 3655,
+      "sha256": "1f24d0311053f89d26e82e8b509c6e9f5de60d2a0e86fcaf96412b935ccc939f",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/local-publish.publish012.before.txt",
+      "size": 34201,
+      "sha256": "cc7e234f9e7c1b29ac72b9cb2f6a50039f02d4b0ac3890e05670f5e926d686da",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/local-publish.staging.before.txt",
+      "size": 35690,
+      "sha256": "15e915039dd79521ce2009fec26f8df5d47147c7a5da138e2134c3212e4bfb29",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/publish-0.1.2.fingerprint.after.txt",
+      "size": 34201,
+      "sha256": "cc7e234f9e7c1b29ac72b9cb2f6a50039f02d4b0ac3890e05670f5e926d686da",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/publish-0.1.2.fingerprint.before.txt",
+      "size": 34201,
+      "sha256": "cc7e234f9e7c1b29ac72b9cb2f6a50039f02d4b0ac3890e05670f5e926d686da",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/resourcepacks.candidate.json",
+      "size": 410,
+      "sha256": "a1e185eeb01b06c63445e471b7fff00285b1f9ee3607957c3e75eda9b5b49ae4",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/server-manifest.json",
+      "size": 122074,
+      "sha256": "d02d0f0381a87003cd77fc96603a8bd051c38488fab71f11e0b993d4a20c988a",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/sign-0.1.3.CLEAN.mods.fingerprint.before.txt",
+      "size": 25021,
+      "sha256": "022452a8c283ab7f722cf988626ba6c95a46c82c02e00b226a519c6149b9d429",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/sign-0.1.3.payload.fingerprint.before.txt",
+      "size": 35607,
+      "sha256": "14004442a9b4ce74a02b92a7a1f5f0080abe6bcd5734f8881bd825d3dfde4f68",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/sign-0.1.3.publish012.fingerprint.before.txt",
+      "size": 34201,
+      "sha256": "cc7e234f9e7c1b29ac72b9cb2f6a50039f02d4b0ac3890e05670f5e926d686da",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.3-seq4-NONPUBLISHABLE/sign-0.1.3.release.fingerprint.before.txt",
+      "size": 35690,
+      "sha256": "7b6fd0001825103d003b4eb72a9a3fb135ae9b380ccdeeb9eb16d1d68ece2d37",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/CANDIDATE_FREEZE_0.1.4_seq5.json",
+      "size": 2638,
+      "sha256": "13cdab2f8cbafb7841a637bc8a0baac2a4ab15c536c97bba7295919e7ea960b5",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/DETERMINISM_PAYLOAD.fingerprint.txt",
+      "size": 36064,
+      "sha256": "a2b5baba35ff2a4a1ecdbd6ad437cfccfe7e44f10dac2f70eebb858ec93d7907",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/DETERMINISM_REPORT.json",
+      "size": 74,
+      "sha256": "281e152bd346f867bc97b62404924fb571cfba6851c51efb758597f22160f9c4",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/PROJECTION_DIFFS.json",
+      "size": 34,
+      "sha256": "730853322084d78b3625adc08346ca77e81f3856a4698a162c7c46cab9cfc100",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/STAGE_PREFLIGHT.json",
+      "size": 63302,
+      "sha256": "d8b876e329eabc382cf2aca87306097160fc7710dd1c3361f45b6822d71bb42f",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/SYNC06_REPORT.json",
+      "size": 3016,
+      "sha256": "4c05d8e28d944ab7c577001c067bd501b402b0397b7c40fc4b80c7369c59dee3",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/SYNC07_DELTA_0.1.3_to_0.1.4.json",
+      "size": 3918,
+      "sha256": "40e841d4259b61c83e04f4dfa5a57469eb8d7cfe19219962c891a7ed147e6bf4",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/SYNC07_REPORT.json",
+      "size": 2014,
+      "sha256": "4b8c91de644393b55d44664caa38d615ac8df4e3f992331a3ecaa384122b078f",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/SYNC08.1_REPORT.json",
+      "size": 5323,
+      "sha256": "8a914e4fbae914b92444544b2a23be5842be5950508bb5cda0c25a41d8280f2f",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/SYNC08.1_WIP_INVENTORY.json",
+      "size": 10420,
+      "sha256": "23106db11bfbb1a4e5236c110164cd9355ff079d4f41b601dbc9ec702133ed91",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/SYNC08_REPORT.json",
+      "size": 2304,
+      "sha256": "ede1e5f192ea54b16026bcd3635904ddcd1fb7aced2aec095f2d324cfc5f69ce",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/SYNC08_SERVER_AUDIT.json",
+      "size": 2816,
+      "sha256": "3a904b37a8e7b408a88849e4e35697f990ffb280c7a7f795d234d9565f29f0cf",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/amc.json",
+      "size": 43662,
+      "sha256": "325ced361113b394c2edff7eb45642d6764429c439d2df7c6a6a92fd991e5019",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/beautify.json",
+      "size": 118,
+      "sha256": "285f55d00f7e50b3e6191e22fc02083dd3648e1fe717da6a20a59bfc84044fab",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/carryon-client.json",
+      "size": 796,
+      "sha256": "9909d01cf9427ea5d70a66b5c52d2fb7c5e414d410c2e20ae58460661e780de5",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/carryon-common.json",
+      "size": 11207,
+      "sha256": "43efb4b904e7888fc0cb4f9871625e0a0c99dd87e91c9471c67eadbebe5a5199",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/codxlib.json",
+      "size": 33,
+      "sha256": "9bbcd79887fd495801e28733a5c4e59b6ba7a1a51c45c6782d03804e6557abef",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/creativecore-client.json",
+      "size": 23,
+      "sha256": "acb6c8c1394d4d6f2d0c98d5c314c5ef8ad34b8a76f0a420fc596733bcbc51ac",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/creativecore.json",
+      "size": 274,
+      "sha256": "5f08d0878d7f89c6b4c947a49dce368d7738255d44fecf9aad59ec6ae8a4fcef",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/enchdesc.json",
+      "size": 2186,
+      "sha256": "4fb5cb608bfd085f88021026cdd43a65b79e09271a8881f75c46e19c3f00736c",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/entityculling.json",
+      "size": 2228,
+      "sha256": "e92e6772c4b6ec28b9c179c80831d56d11fc65064591424a120133d397b2ab49",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/explorerscompass.json",
+      "size": 2829,
+      "sha256": "2d47b22442868ca000a5eab03fab73c6ca7bb3e65b9eb36c37122ed173a44010",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/fabric_simple_generator.json",
+      "size": 653,
+      "sha256": "058f823e9acbde1ac6e5e58f3818640aae804343327cb8480d3d890cc749ea6a",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/fallen.json",
+      "size": 290,
+      "sha256": "a359118099836306b4c7b2f155da098870b99e3b49db8a694db2c156fcdf411c",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/fallingleaves2.json",
+      "size": 674,
+      "sha256": "cb9d4d481a63cddaf7e90a3e3f8c5bb134cd0be8f1401b1f808c55bf0ab4572f",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/fallingtree.json",
+      "size": 1313,
+      "sha256": "9704d03d869a866e68c5e783025c8720df6d35e3e76c56080e08e9bf6473a341",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/farmersdelight-client.json",
+      "size": 281,
+      "sha256": "bc7d65ca1c81b0316131863b10385e8790e57fdd4f3ec53bc1fc53fce489fe53",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/farmersdelight-common.json",
+      "size": 1207,
+      "sha256": "2b30d437183d307fdda8e3053a12f9be4434a90f383e5facd08af34fb05d35ba",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/friendsandfoes.json",
+      "size": 2028,
+      "sha256": "358a049568d9031aed9ae78615c99bc70b8d3f5b03c71e5a28057ffe28d03179",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/immediatelyfast.json",
+      "size": 1023,
+      "sha256": "9a1ae7577440d36732b4d34885195b37423a3e8b906ff8602220bc0447969d15",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/iris-excluded.json",
+      "size": 31,
+      "sha256": "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/journeymap-server.json",
+      "size": 67,
+      "sha256": "2b77ff82093eb3698b79b2b953806855d1880d414544a8158f41b028d8e293ca",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/lingua_bib.json",
+      "size": 29,
+      "sha256": "986ed19ef024b1c4dd2ff7b31bef04eb5609bfa23bf1fa2b319258513c80e44a",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/litematica.json",
+      "size": 13122,
+      "sha256": "b233781cc531e5948c7737fbe8dbd3c19c73573e89c4652892ede5ce412a5e2e",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/lithostitched.json",
+      "size": 242,
+      "sha256": "43e35f01fceb40ba4689584c447ae842edf22fe86131f30f5108aae55b1b5ca6",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/malilib.json",
+      "size": 1145,
+      "sha256": "d74e5c538aeeac41023eaabc5c1f49e07e6d25d021ab41366e133348e9c8ad97",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/mcendgame.json",
+      "size": 27,
+      "sha256": "85057580787344ebb91c3e4fd65c2daf6f9e67f6278a521a6eebdadac0f58e9c",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/modmenu.json",
+      "size": 840,
+      "sha256": "16d20c40cc6c114faff5493b561873fe160a65047720bc19fb3a3dd64aa67f3b",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/naturescompass.json",
+      "size": 2865,
+      "sha256": "e80fea0ce55921b76930f2ee0a8e838bb2cb0d84fa03802182c9960cfa706e50",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/nearby_inventory.json",
+      "size": 17,
+      "sha256": "c8964229efd99d79d7f58c4c2251cb50cc5b9d2c3cd410c3f9e0dc427aac8f7d",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/resourceful-config-web.json",
+      "size": 196,
+      "sha256": "644607c9a5a9aa4fa6d050f309b3067d655ac7c81c7a5cc27346c6edc281b8bd",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/sodium-extra-options.json",
+      "size": 2110,
+      "sha256": "c6d02a294a6615c01075925e5d33a15dd513e4ab128bb96dd77d2cf13a4e336b",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/sodium-fingerprint.json",
+      "size": 427,
+      "sha256": "29aa56410d911c996dc25ff67e399492ce50c811ba6b22ed219aa7c8be2f3c0c",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/sodium-options.json",
+      "size": 817,
+      "sha256": "680378d5c81a30954b884ac97e652dae550619876df8fb7997e2a6e9dc3fc489",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/terralith.json",
+      "size": 236,
+      "sha256": "af469436b99b83c0698e2263320bcc5395cc06c8e0fa3f0d0e2e6216d7e08b6d",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/transition.json",
+      "size": 97,
+      "sha256": "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/trender.json",
+      "size": 47,
+      "sha256": "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/trinkets.json",
+      "size": 309,
+      "sha256": "0b23e8459020ef90f8c9cbe404c08170c19c1fde8a197972dd924504b70c4445",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/_canonical-merged-config-source/config/zoomify.json",
+      "size": 708,
+      "sha256": "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/amc.json",
+      "size": 43662,
+      "sha256": "325ced361113b394c2edff7eb45642d6764429c439d2df7c6a6a92fd991e5019",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/beautify.json",
+      "size": 118,
+      "sha256": "285f55d00f7e50b3e6191e22fc02083dd3648e1fe717da6a20a59bfc84044fab",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/carryon-client.json",
+      "size": 796,
+      "sha256": "9909d01cf9427ea5d70a66b5c52d2fb7c5e414d410c2e20ae58460661e780de5",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/carryon-common.json",
+      "size": 11207,
+      "sha256": "43efb4b904e7888fc0cb4f9871625e0a0c99dd87e91c9471c67eadbebe5a5199",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/creativecore-client.json",
+      "size": 23,
+      "sha256": "acb6c8c1394d4d6f2d0c98d5c314c5ef8ad34b8a76f0a420fc596733bcbc51ac",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/creativecore.json",
+      "size": 274,
+      "sha256": "5f08d0878d7f89c6b4c947a49dce368d7738255d44fecf9aad59ec6ae8a4fcef",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/enchdesc.json",
+      "size": 2186,
+      "sha256": "4fb5cb608bfd085f88021026cdd43a65b79e09271a8881f75c46e19c3f00736c",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/entityculling.json",
+      "size": 2228,
+      "sha256": "e92e6772c4b6ec28b9c179c80831d56d11fc65064591424a120133d397b2ab49",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/explorerscompass.json",
+      "size": 2829,
+      "sha256": "2d47b22442868ca000a5eab03fab73c6ca7bb3e65b9eb36c37122ed173a44010",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/fabric_simple_generator.json",
+      "size": 653,
+      "sha256": "058f823e9acbde1ac6e5e58f3818640aae804343327cb8480d3d890cc749ea6a",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/fallen.json",
+      "size": 290,
+      "sha256": "a359118099836306b4c7b2f155da098870b99e3b49db8a694db2c156fcdf411c",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/fallingleaves2.json",
+      "size": 674,
+      "sha256": "cb9d4d481a63cddaf7e90a3e3f8c5bb134cd0be8f1401b1f808c55bf0ab4572f",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/fallingtree.json",
+      "size": 1313,
+      "sha256": "9704d03d869a866e68c5e783025c8720df6d35e3e76c56080e08e9bf6473a341",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/farmersdelight-client.json",
+      "size": 281,
+      "sha256": "bc7d65ca1c81b0316131863b10385e8790e57fdd4f3ec53bc1fc53fce489fe53",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/farmersdelight-common.json",
+      "size": 1207,
+      "sha256": "2b30d437183d307fdda8e3053a12f9be4434a90f383e5facd08af34fb05d35ba",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/friendsandfoes.json",
+      "size": 2028,
+      "sha256": "358a049568d9031aed9ae78615c99bc70b8d3f5b03c71e5a28057ffe28d03179",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/immediatelyfast.json",
+      "size": 1023,
+      "sha256": "9a1ae7577440d36732b4d34885195b37423a3e8b906ff8602220bc0447969d15",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/iris-excluded.json",
+      "size": 31,
+      "sha256": "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/litematica.json",
+      "size": 13122,
+      "sha256": "b233781cc531e5948c7737fbe8dbd3c19c73573e89c4652892ede5ce412a5e2e",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/malilib.json",
+      "size": 1145,
+      "sha256": "d74e5c538aeeac41023eaabc5c1f49e07e6d25d021ab41366e133348e9c8ad97",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/modmenu.json",
+      "size": 840,
+      "sha256": "16d20c40cc6c114faff5493b561873fe160a65047720bc19fb3a3dd64aa67f3b",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/naturescompass.json",
+      "size": 2865,
+      "sha256": "e80fea0ce55921b76930f2ee0a8e838bb2cb0d84fa03802182c9960cfa706e50",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/sodium-extra-options.json",
+      "size": 2110,
+      "sha256": "c6d02a294a6615c01075925e5d33a15dd513e4ab128bb96dd77d2cf13a4e336b",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/sodium-fingerprint.json",
+      "size": 427,
+      "sha256": "29aa56410d911c996dc25ff67e399492ce50c811ba6b22ed219aa7c8be2f3c0c",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/sodium-options.json",
+      "size": 817,
+      "sha256": "680378d5c81a30954b884ac97e652dae550619876df8fb7997e2a6e9dc3fc489",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/transition.json",
+      "size": 97,
+      "sha256": "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/trender.json",
+      "size": 47,
+      "sha256": "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-client/config/trinkets.json",
+      "size": 309,
+      "sha256": "0b23e8459020ef90f8c9cbe404c08170c19c1fde8a197972dd924504b70c4445",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-server/config/amc.json",
+      "size": 43662,
+      "sha256": "325ced361113b394c2edff7eb45642d6764429c439d2df7c6a6a92fd991e5019",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-server/config/beautify.json",
+      "size": 118,
+      "sha256": "285f55d00f7e50b3e6191e22fc02083dd3648e1fe717da6a20a59bfc84044fab",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-server/config/carryon-common.json",
+      "size": 11207,
+      "sha256": "43efb4b904e7888fc0cb4f9871625e0a0c99dd87e91c9471c67eadbebe5a5199",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-server/config/codxlib.json",
+      "size": 33,
+      "sha256": "9bbcd79887fd495801e28733a5c4e59b6ba7a1a51c45c6782d03804e6557abef",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-server/config/creativecore.json",
+      "size": 274,
+      "sha256": "5f08d0878d7f89c6b4c947a49dce368d7738255d44fecf9aad59ec6ae8a4fcef",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-server/config/explorerscompass.json",
+      "size": 2829,
+      "sha256": "2d47b22442868ca000a5eab03fab73c6ca7bb3e65b9eb36c37122ed173a44010",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-server/config/fabric_simple_generator.json",
+      "size": 653,
+      "sha256": "058f823e9acbde1ac6e5e58f3818640aae804343327cb8480d3d890cc749ea6a",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-server/config/fallen.json",
+      "size": 290,
+      "sha256": "a359118099836306b4c7b2f155da098870b99e3b49db8a694db2c156fcdf411c",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-server/config/fallingtree.json",
+      "size": 1313,
+      "sha256": "9704d03d869a866e68c5e783025c8720df6d35e3e76c56080e08e9bf6473a341",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-server/config/farmersdelight-common.json",
+      "size": 1207,
+      "sha256": "2b30d437183d307fdda8e3053a12f9be4434a90f383e5facd08af34fb05d35ba",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-server/config/friendsandfoes.json",
+      "size": 2028,
+      "sha256": "358a049568d9031aed9ae78615c99bc70b8d3f5b03c71e5a28057ffe28d03179",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-server/config/journeymap-server.json",
+      "size": 67,
+      "sha256": "2b77ff82093eb3698b79b2b953806855d1880d414544a8158f41b028d8e293ca",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-server/config/lithostitched.json",
+      "size": 242,
+      "sha256": "43e35f01fceb40ba4689584c447ae842edf22fe86131f30f5108aae55b1b5ca6",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-server/config/naturescompass.json",
+      "size": 2865,
+      "sha256": "e80fea0ce55921b76930f2ee0a8e838bb2cb0d84fa03802182c9960cfa706e50",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-server/config/nearby_inventory.json",
+      "size": 17,
+      "sha256": "c8964229efd99d79d7f58c4c2251cb50cc5b9d2c3cd410c3f9e0dc427aac8f7d",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/candidates/0.1.4-seq5-NONPUBLISHABLE/audit-materialize-server/config/terralith.json",
+      "size": 236,
+      "sha256": "af469436b99b83c0698e2263320bcc5395cc06c8e0fa3f0d0e2e6216d7e08b6d",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/publish-0.1.1/channels/dev.json",
+      "size": 507,
+      "sha256": "246df632aa6adfc60aec8f42f63f1aef34fc4452aa9a9feea43777b9605468b6",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/publish-0.1.2/channels/dev.json",
+      "size": 507,
+      "sha256": "d05787e4b1fd02fc3677c718f7769c2e39d289ac7f38fadce3aebc3106fd8fe8",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/publish-0.1.3/channels/dev.json",
+      "size": 507,
+      "sha256": "ce38f0b89a6b4ce0517483ea08ff88945ffe896af175e485bf543b9b72868e55",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/publish-prod/channels/dev.json",
+      "size": 507,
+      "sha256": "e3cdf3c96e155430086a1e237d9b64168dad27a03da835feb6f80656eb9fb19a",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/publish-test/channels/dev.json",
+      "size": 504,
+      "sha256": "3bbc9088db200419e1d1fcc169a4547845c7361bfc3b432e79efa5977b0361bd",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/publish/channels/dev.json",
+      "size": 507,
+      "sha256": "658f004c392690cb6dd9f8d1d59ff346fedfb49ed9186508f93dc528c44204d4",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/release/client-manifest.json",
+      "size": 110995,
+      "sha256": "9eedcc3314c2746b6a866a64f51065dcc91d2655f8b8a480dcb53bf0f61dddb1",
+      "category": "historical-artefact"
+    },
+    {
+      "path": "data/release/server-manifest.json",
+      "size": 103258,
+      "sha256": "091c3c6b5a288b03a392830bb7b8b6bea60eef96af00e3150cd6343bbe36957c",
+      "category": "historical-artefact"
+    }
+  ]
+}

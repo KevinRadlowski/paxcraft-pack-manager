@@ -1,0 +1,60 @@
+{
+  "schema": "pax-baseline-coverage-v1",
+  "project": "pm",
+  "generatedAtUtc": "2026-09-30T19:50:18.709362+00:00",
+  "sourceFileCount": 140,
+  "sourceTotalBytes": 4094618,
+  "artefactFileCount": 169,
+  "byCategory": [
+    {
+      "category": "config",
+      "count": 3,
+      "bytes": 1973
+    },
+    {
+      "category": "docs",
+      "count": 11,
+      "bytes": 34292
+    },
+    {
+      "category": "fixtures",
+      "count": 1,
+      "bytes": 1767
+    },
+    {
+      "category": "manifest-lock",
+      "count": 2,
+      "bytes": 12040
+    },
+    {
+      "category": "pax-baseline-meta",
+      "count": 3,
+      "bytes": 5126
+    },
+    {
+      "category": "pm-data-catalog",
+      "count": 6,
+      "bytes": 2876146
+    },
+    {
+      "category": "pm-data-useful",
+      "count": 12,
+      "bytes": 231528
+    },
+    {
+      "category": "scripts",
+      "count": 26,
+      "bytes": 251639
+    },
+    {
+      "category": "source-pm",
+      "count": 76,
+      "bytes": 680107
+    }
+  ],
+  "excludedCounts": {
+    "pm-generated-data": 1897,
+    "other-excluded": 6
+  },
+  "sensitiveCount": 0
+}

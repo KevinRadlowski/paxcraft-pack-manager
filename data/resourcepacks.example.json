@@ -1,0 +1,22 @@
+{
+  "resourcePacks": [
+    {
+      "id": "sweetcraft-fr",
+      "displayName": "SweetCraft FR",
+      "version": "2.7-DETAIL-PASS",
+      "sourcePath": "../MODPACK FINAL CLEAN/client/resourcepacks/SweetCraft-FR-v2.7-DETAIL-PASS.zip",
+      "target": "CLIENT",
+      "targetPath": "resourcepacks/SweetCraft-FR-v2.7-DETAIL-PASS.zip",
+      "autoEnable": true
+    },
+    {
+      "id": "faithful-64x-r13",
+      "displayName": "Faithful 64x — Release 13",
+      "version": "Release 13",
+      "sourcePath": "../MODPACK FINAL CLEAN/client/resourcepacks/Faithful 64x - Release 13.zip",
+      "target": "CLIENT",
+      "targetPath": "resourcepacks/Faithful 64x - Release 13.zip",
+      "autoEnable": false
+    }
+  ]
+}

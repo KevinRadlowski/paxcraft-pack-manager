@@ -1,0 +1,1076 @@
+{
+  "source": {
+    "cleanRoot": "H:/Users/kevin/Downloads/Dev/XBase/MODPACK FINAL CLEAN",
+    "clientMods": "H:\\Users\\kevin\\Downloads\\Dev\\XBase\\MODPACK FINAL CLEAN\\client\\mods",
+    "serverMods": "H:\\Users\\kevin\\Downloads\\Dev\\XBase\\MODPACK FINAL CLEAN\\server\\mods",
+    "minecraft": "26.1.2",
+    "fabricLoader": "0.19.3"
+  },
+  "counts": {
+    "clientTopLevel": 110,
+    "serverTopLevel": 94,
+    "commonFilenames": 84,
+    "clientOnlyFilenames": 26,
+    "serverOnlyFilenames": 10,
+    "catalogMods": 120,
+    "topLevelJarCount": 120,
+    "nestedJarCount": 209,
+    "providesCount": 5,
+    "configFileCount": 374,
+    "clientInstallCount": 110,
+    "serverInstallCount": 94,
+    "serverOnlyCount": 10,
+    "clientOnlyCount": 26,
+    "bothRequiredCount": 84,
+    "otherSideCount": 0
+  },
+  "hashConflictsBetweenSides": [],
+  "curation": {
+    "presenceChanged": 139,
+    "closurePromoted": 0,
+    "sideCounts": {
+      "BOTH_REQUIRED": 84,
+      "CLIENT_ONLY": 26,
+      "SERVER_ONLY": 10
+    }
+  },
+  "providers": {
+    "modrinthFound": 107,
+    "modrinthMissing": 13,
+    "realConflicts": 19,
+    "curseforgeFound": 0,
+    "githubFound": 1,
+    "unresolvedFileUrl": 12
+  },
+  "dependencyClosure": {
+    "client": {
+      "counts": {
+        "SATISFIED_TOP_LEVEL": 57,
+        "SATISFIED_PROVIDES": 1,
+        "SATISFIED_NESTED": 12,
+        "SATISFIED_FABRIC_MODULE": 0,
+        "BUILTIN": 0,
+        "MISSING": 0,
+        "VERSION_INCOMPATIBLE": 0,
+        "UNKNOWN_VERSION_SEMANTICS": 12,
+        "ALIAS_REQUIRED": 0
+      },
+      "details": [
+        {
+          "dependent": "bettercaves",
+          "dependency": "cloth-config2",
+          "status": "UNKNOWN_VERSION_SEMANTICS"
+        },
+        {
+          "dependent": "betterdeserttemples",
+          "dependency": "cloth-config2",
+          "status": "UNKNOWN_VERSION_SEMANTICS"
+        },
+        {
+          "dependent": "betterdungeons",
+          "dependency": "cloth-config2",
+          "status": "UNKNOWN_VERSION_SEMANTICS"
+        },
+        {
+          "dependent": "betterfortresses",
+          "dependency": "cloth-config2",
+          "status": "UNKNOWN_VERSION_SEMANTICS"
+        },
+        {
+          "dependent": "betterjungletemples",
+          "dependency": "cloth-config2",
+          "status": "UNKNOWN_VERSION_SEMANTICS"
+        },
+        {
+          "dependent": "bettermineshafts",
+          "dependency": "cloth-config2",
+          "status": "UNKNOWN_VERSION_SEMANTICS"
+        },
+        {
+          "dependent": "betteroceanmonuments",
+          "dependency": "cloth-config2",
+          "status": "UNKNOWN_VERSION_SEMANTICS"
+        },
+        {
+          "dependent": "betterstrongholds",
+          "dependency": "cloth-config2",
+          "status": "UNKNOWN_VERSION_SEMANTICS"
+        },
+        {
+          "dependent": "betterwitchhuts",
+          "dependency": "cloth-config2",
+          "status": "UNKNOWN_VERSION_SEMANTICS"
+        },
+        {
+          "dependent": "yungsbridges",
+          "dependency": "cloth-config2",
+          "status": "UNKNOWN_VERSION_SEMANTICS"
+        },
+        {
+          "dependent": "yungscavebiomes",
+          "dependency": "cloth-config2",
+          "status": "UNKNOWN_VERSION_SEMANTICS"
+        },
+        {
+          "dependent": "yungsextras",
+          "dependency": "cloth-config2",
+          "status": "UNKNOWN_VERSION_SEMANTICS"
+        }
+      ]
+    },
+    "server": {
+      "counts": {
+        "SATISFIED_TOP_LEVEL": 48,
+        "SATISFIED_PROVIDES": 1,
+        "SATISFIED_NESTED": 9,
+        "SATISFIED_FABRIC_MODULE": 0,
+        "BUILTIN": 0,
+        "MISSING": 0,
+        "VERSION_INCOMPATIBLE": 0,
+        "UNKNOWN_VERSION_SEMANTICS": 12,
+        "ALIAS_REQUIRED": 0
+      },
+      "details": [
+        {
+          "dependent": "bettercaves",
+          "dependency": "cloth-config2",
+          "status": "UNKNOWN_VERSION_SEMANTICS"
+        },
+        {
+          "dependent": "betterdeserttemples",
+          "dependency": "cloth-config2",
+          "status": "UNKNOWN_VERSION_SEMANTICS"
+        },
+        {
+          "dependent": "betterdungeons",
+          "dependency": "cloth-config2",
+          "status": "UNKNOWN_VERSION_SEMANTICS"
+        },
+        {
+          "dependent": "betterfortresses",
+          "dependency": "cloth-config2",
+          "status": "UNKNOWN_VERSION_SEMANTICS"
+        },
+        {
+          "dependent": "betterjungletemples",
+          "dependency": "cloth-config2",
+          "status": "UNKNOWN_VERSION_SEMANTICS"
+        },
+        {
+          "dependent": "bettermineshafts",
+          "dependency": "cloth-config2",
+          "status": "UNKNOWN_VERSION_SEMANTICS"
+        },
+        {
+          "dependent": "betteroceanmonuments",
+          "dependency": "cloth-config2",
+          "status": "UNKNOWN_VERSION_SEMANTICS"
+        },
+        {
+          "dependent": "betterstrongholds",
+          "dependency": "cloth-config2",
+          "status": "UNKNOWN_VERSION_SEMANTICS"
+        },
+        {
+          "dependent": "betterwitchhuts",
+          "dependency": "cloth-config2",
+          "status": "UNKNOWN_VERSION_SEMANTICS"
+        },
+        {
+          "dependent": "yungsbridges",
+          "dependency": "cloth-config2",
+          "status": "UNKNOWN_VERSION_SEMANTICS"
+        },
+        {
+          "dependent": "yungscavebiomes",
+          "dependency": "cloth-config2",
+          "status": "UNKNOWN_VERSION_SEMANTICS"
+        },
+        {
+          "dependent": "yungsextras",
+          "dependency": "cloth-config2",
+          "status": "UNKNOWN_VERSION_SEMANTICS"
+        }
+      ]
+    },
+    "clientGaps": [],
+    "serverGaps": []
+  },
+  "configs": {
+    "total": 374,
+    "excluded": 71,
+    "excludedPaths": [
+      "config/DistantHorizons.toml",
+      "config/betternether/world.json",
+      "config/grieflogger/grieflogger-server.yaml",
+      "config/inventoryprofilesnext/Nouveau monde/prev-villager-trading-config-v2.json",
+      "config/inventoryprofilesnext/Nouveau monde/villager-trading-config-v2.json",
+      "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
+      "config/inventoryprofilesnext/localhost/villager-trading-config-v2.json",
+      "config/inventoryprofilesnext/sweetcraft.datho.st/prev-villager-trading-config-v2.json",
+      "config/inventoryprofilesnext/sweetcraft.datho.st/villager-trading-config-v2.json",
+      "config/inventoryprofilesnext/vortex.dathost.net&17118/villager-trading-config-v2.json",
+      "config/ledger.toml",
+      "config/lingua_bib.json",
+      "config/litematica/litematica_Nouveau monde.json",
+      "config/litematica/litematica_Nouveau monde_dim_minecraft_overworld.json",
+      "config/litematica/litematica_sweetcraft.datho.st.json",
+      "config/litematica/litematica_sweetcraft.datho.st_dim_minecraft_overworld.json",
+      "config/litematica/litematica_sweetcraft.datho.st_dim_minecraft_the_end.json",
+      "config/luckperms/luckperms.conf",
+      "config/luckperms/translations/repository/ar_SA.properties",
+      "config/luckperms/translations/repository/bg_BG.properties",
+      "config/luckperms/translations/repository/cs_CZ.properties",
+      "config/luckperms/translations/repository/da_DK.properties",
+      "config/luckperms/translations/repository/de_DE.properties",
+      "config/luckperms/translations/repository/el_GR.properties",
+      "config/luckperms/translations/repository/en_PT.properties",
+      "config/luckperms/translations/repository/es_ES.properties",
+      "config/luckperms/translations/repository/fa_IR.properties",
+      "config/luckperms/translations/repository/fi_FI.properties",
+      "config/luckperms/translations/repository/fil_PH.properties",
+      "config/luckperms/translations/repository/fr_FR.properties",
+      "config/luckperms/translations/repository/he_IL.properties",
+      "config/luckperms/translations/repository/hi_IN.properties",
+      "config/luckperms/translations/repository/hu_HU.properties",
+      "config/luckperms/translations/repository/id_ID.properties",
+      "config/luckperms/translations/repository/it_IT.properties",
+      "config/luckperms/translations/repository/ja_JP.properties",
+      "config/luckperms/translations/repository/ka_GE.properties",
+      "config/luckperms/translations/repository/ko_KR.properties",
+      "config/luckperms/translations/repository/nl_NL.properties",
+      "config/luckperms/translations/repository/no_NO.properties",
+      "config/luckperms/translations/repository/pl_PL.properties",
+      "config/luckperms/translations/repository/pt_BR.properties",
+      "config/luckperms/translations/repository/ro_RO.properties",
+      "config/luckperms/translations/repository/ru_RU.properties",
+      "config/luckperms/translations/repository/sk_SK.properties",
+      "config/luckperms/translations/repository/sr_CS.properties",
+      "config/luckperms/translations/repository/status.json",
+      "config/luckperms/translations/repository/sv_SE.properties",
+      "config/luckperms/translations/repository/tr_TR.properties",
+      "config/luckperms/translations/repository/uk_UA.properties",
+      "config/luckperms/translations/repository/vi_VN.properties",
+      "config/luckperms/translations/repository/zh_CN.properties",
+      "config/luckperms/translations/repository/zh_TW.properties",
+      "config/mcendgame.json",
+      "config/minetracer/database.db",
+      "config/minetracer/logs_backup_1788221122589.json",
+      "config/minetracer/logs_backup_1788273852003.json",
+      "config/minetracer/logs_backup_1788275875327.json",
+      "config/minetracer/logs_backup_1788307523393.json",
+      "config/minetracer/logs_backup_1788354576826.json",
+      "config/minetracer/logs_backup_1788480323526.json",
+      "config/minetracer/logs_backup_1788516145056.json",
+      "config/minetracer/logs_backup_1788551817439.json",
+      "config/minetracer/logs_backup_1788653124507.json",
+      "config/minetracer/logs_backup_1789344324069.json",
+      "config/resourceful-config-web.json",
+      "config/whitenoise-client.toml",
+      "config/wover/cached.json",
+      "config/xbasecasino/economy.json",
+      "config/yacl.json5",
+      "config/zoomify.json"
+    ],
+    "orphans": [
+      "config/mobchampions-common.toml.bak",
+      "config/shulkerboxtooltip_mp_ender_chest_cache.dat",
+      "config/universal-graves/config.json",
+      "config/universal-graves/example_models/corpse_player.json",
+      "config/universal-graves/example_models/corpse_zombie.json",
+      "config/universal-graves/example_models/default.json",
+      "config/universal-graves/example_models/ender.json",
+      "config/universal-graves/example_models/player_head.json",
+      "config/universal-graves/example_models/soul.json"
+    ],
+    "requiredExclusionsPresent": {
+      "config/luckperms.conf": false,
+      "config/resourceful-config-web.json": true,
+      "grieflogger": true,
+      "xbasecasino/economy": true,
+      "wover/cached": true,
+      "betternether/world": true
+    }
+  },
+  "validation": {
+    "errorCount": 9,
+    "warnCount": 83,
+    "errors": [
+      {
+        "severity": "ERROR",
+        "code": "CONFIG_POLICY_REVIEW",
+        "subject": "config/mobchampions-common.toml.bak",
+        "message": "politique indéterminée (COMMON_FORCE_REVIEW) — release non prête"
+      },
+      {
+        "severity": "ERROR",
+        "code": "CONFIG_POLICY_REVIEW",
+        "subject": "config/shulkerboxtooltip_mp_ender_chest_cache.dat",
+        "message": "politique indéterminée (COMMON_FORCE_REVIEW) — release non prête"
+      },
+      {
+        "severity": "ERROR",
+        "code": "CONFIG_POLICY_REVIEW",
+        "subject": "config/universal-graves/config.json",
+        "message": "politique indéterminée (COMMON_FORCE_REVIEW) — release non prête"
+      },
+      {
+        "severity": "ERROR",
+        "code": "CONFIG_POLICY_REVIEW",
+        "subject": "config/universal-graves/example_models/corpse_player.json",
+        "message": "politique indéterminée (COMMON_FORCE_REVIEW) — release non prête"
+      },
+      {
+        "severity": "ERROR",
+        "code": "CONFIG_POLICY_REVIEW",
+        "subject": "config/universal-graves/example_models/corpse_zombie.json",
+        "message": "politique indéterminée (COMMON_FORCE_REVIEW) — release non prête"
+      },
+      {
+        "severity": "ERROR",
+        "code": "CONFIG_POLICY_REVIEW",
+        "subject": "config/universal-graves/example_models/default.json",
+        "message": "politique indéterminée (COMMON_FORCE_REVIEW) — release non prête"
+      },
+      {
+        "severity": "ERROR",
+        "code": "CONFIG_POLICY_REVIEW",
+        "subject": "config/universal-graves/example_models/ender.json",
+        "message": "politique indéterminée (COMMON_FORCE_REVIEW) — release non prête"
+      },
+      {
+        "severity": "ERROR",
+        "code": "CONFIG_POLICY_REVIEW",
+        "subject": "config/universal-graves/example_models/player_head.json",
+        "message": "politique indéterminée (COMMON_FORCE_REVIEW) — release non prête"
+      },
+      {
+        "severity": "ERROR",
+        "code": "CONFIG_POLICY_REVIEW",
+        "subject": "config/universal-graves/example_models/soul.json",
+        "message": "politique indéterminée (COMMON_FORCE_REVIEW) — release non prête"
+      }
+    ],
+    "warnings": [
+      {
+        "severity": "WARN",
+        "code": "PROVIDER_PENDING",
+        "subject": "dynamic_difficulty-fabric-1.3.3+26.1.2.jar",
+        "message": "CURSEFORGE_API_KEY_REQUIRED"
+      },
+      {
+        "severity": "WARN",
+        "code": "PROVIDER_PENDING",
+        "subject": "fallen-1.3.0+mc26.1.2.jar",
+        "message": "aucune URL de fichier upstream résolue"
+      },
+      {
+        "severity": "WARN",
+        "code": "PROVIDER_PENDING",
+        "subject": "ftb-filter-system-fabric-26.1.2.2.jar",
+        "message": "CURSEFORGE_API_KEY_REQUIRED"
+      },
+      {
+        "severity": "WARN",
+        "code": "PROVIDER_PENDING",
+        "subject": "ftb-library-fabric-26.1.2.7.jar",
+        "message": "CURSEFORGE_API_KEY_REQUIRED"
+      },
+      {
+        "severity": "WARN",
+        "code": "PROVIDER_PENDING",
+        "subject": "ftb-quests-fabric-26.1.2.7.jar",
+        "message": "CURSEFORGE_API_KEY_REQUIRED"
+      },
+      {
+        "severity": "WARN",
+        "code": "PROVIDER_PENDING",
+        "subject": "ftb-teams-fabric-26.1.2.4.jar",
+        "message": "CURSEFORGE_API_KEY_REQUIRED"
+      },
+      {
+        "severity": "WARN",
+        "code": "PROVIDER_PENDING",
+        "subject": "ftb-xmod-compat-fabric-26.1.2.4.jar",
+        "message": "CURSEFORGE_API_KEY_REQUIRED"
+      },
+      {
+        "severity": "WARN",
+        "code": "PROVIDER_PENDING",
+        "subject": "ResourcefulConfig-4.0.1.jar",
+        "message": "aucune URL de fichier upstream résolue"
+      },
+      {
+        "severity": "WARN",
+        "code": "PROVIDER_PENDING",
+        "subject": "ResourcefulLib-4.0.1.jar",
+        "message": "aucune URL de fichier upstream résolue"
+      },
+      {
+        "severity": "WARN",
+        "code": "PROVIDER_PENDING",
+        "subject": "Searchables-fabric-26.1.2-1.0.2.jar",
+        "message": "aucune URL de fichier upstream résolue"
+      },
+      {
+        "severity": "WARN",
+        "code": "PROVIDER_PENDING",
+        "subject": "shogi-fabric-26.1.2-26.1.2.8.jar",
+        "message": "aucune URL de fichier upstream résolue"
+      },
+      {
+        "severity": "WARN",
+        "code": "PROVIDER_PENDING",
+        "subject": "xbase-casino-0.9.17-B2.7.2.1+mc26.1.2.jar",
+        "message": "aucune URL de fichier upstream résolue"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/betternether/world.json",
+        "message": "Better Nether per-world / generated world data — runtime, not pack-authored defaults"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/DistantHorizons.toml",
+        "message": "Distant Horizons mod removed — stale residue in FINAL CLEAN, do not distribute"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/grieflogger/grieflogger-server.yaml",
+        "message": "GriefLogger server DB/credentials and instance paths — never distribute via launcher"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
+        "message": "IPN integration hints — runtime user data, not pack baseline"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/inventoryprofilesnext/localhost/villager-trading-config-v2.json",
+        "message": "IPN per-server trading bookmarks — runtime user data"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/inventoryprofilesnext/Nouveau monde/prev-villager-trading-config-v2.json",
+        "message": "IPN trading bookmark backups — runtime user data"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/inventoryprofilesnext/Nouveau monde/villager-trading-config-v2.json",
+        "message": "IPN per-server trading bookmarks — runtime user data"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/inventoryprofilesnext/sweetcraft.datho.st/prev-villager-trading-config-v2.json",
+        "message": "IPN trading bookmark backups — runtime user data"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/inventoryprofilesnext/sweetcraft.datho.st/villager-trading-config-v2.json",
+        "message": "IPN per-server trading bookmarks — runtime user data"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/inventoryprofilesnext/vortex.dathost.net&17118/villager-trading-config-v2.json",
+        "message": "IPN per-server trading bookmarks — runtime user data"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/ledger.toml",
+        "message": "Ledger mod absent from CLEAN — leftover config, do not distribute"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/lingua_bib.json",
+        "message": "Lingua / bib helper absent from CLEAN — leftover config"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/litematica/litematica_Nouveau monde_dim_minecraft_overworld.json",
+        "message": "Litematica local creative state — not pack baseline"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/litematica/litematica_Nouveau monde.json",
+        "message": "Litematica local creative state — not pack baseline"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/litematica/litematica_sweetcraft.datho.st_dim_minecraft_overworld.json",
+        "message": "Litematica local creative state — not pack baseline"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/litematica/litematica_sweetcraft.datho.st_dim_minecraft_the_end.json",
+        "message": "Litematica local creative state — not pack baseline"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/litematica/litematica_sweetcraft.datho.st.json",
+        "message": "Litematica local creative state — not pack baseline"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/luckperms.conf",
+        "message": "Instance-local LuckPerms config with DB/Redis/messaging credential slots — never distribute via launcher"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/ar_SA.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/bg_BG.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/cs_CZ.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/da_DK.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/de_DE.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/el_GR.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/en_PT.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/es_ES.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/fa_IR.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/fi_FI.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/fil_PH.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/fr_FR.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/he_IL.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/hi_IN.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/hu_HU.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/id_ID.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/it_IT.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/ja_JP.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/ka_GE.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/ko_KR.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/nl_NL.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/no_NO.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/pl_PL.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/pt_BR.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/ro_RO.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/ru_RU.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/sk_SK.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/sr_CS.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/status.json",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/sv_SE.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/tr_TR.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/uk_UA.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/vi_VN.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/zh_CN.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/luckperms/translations/repository/zh_TW.properties",
+        "message": "LuckPerms auto-downloaded translation cache/generated repository — not pack-authored"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/mcendgame.json",
+        "message": "Analytics-only (sendAnalytics); do not distribute"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/minetracer/database.db",
+        "message": "MineTracer SQLite database — runtime/personal server data, never distribute"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/minetracer/logs_backup_1788221122589.json",
+        "message": "MineTracer log backups — runtime, never distribute"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/minetracer/logs_backup_1788273852003.json",
+        "message": "MineTracer log backups — runtime, never distribute"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/minetracer/logs_backup_1788275875327.json",
+        "message": "MineTracer log backups — runtime, never distribute"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/minetracer/logs_backup_1788307523393.json",
+        "message": "MineTracer log backups — runtime, never distribute"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/minetracer/logs_backup_1788354576826.json",
+        "message": "MineTracer log backups — runtime, never distribute"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/minetracer/logs_backup_1788480323526.json",
+        "message": "MineTracer log backups — runtime, never distribute"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/minetracer/logs_backup_1788516145056.json",
+        "message": "MineTracer log backups — runtime, never distribute"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/minetracer/logs_backup_1788551817439.json",
+        "message": "MineTracer log backups — runtime, never distribute"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/minetracer/logs_backup_1788653124507.json",
+        "message": "MineTracer log backups — runtime, never distribute"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/minetracer/logs_backup_1789344324069.json",
+        "message": "MineTracer log backups — runtime, never distribute"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/resourceful-config-web.json",
+        "message": "Resourceful Config web UI: admin port + password validator — local/secret, never distribute"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/whitenoise-client.toml",
+        "message": "White Noise mod absent from CLEAN — leftover client config"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/wover/cached.json",
+        "message": "Runtime version-check cache, regenerated locally"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/xbasecasino/economy.json",
+        "message": "Casino economy / balances — server economic state, not a distributable client default"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/yacl.json5",
+        "message": "YACL mod removed from FINAL CLEAN baseline"
+      },
+      {
+        "severity": "WARN",
+        "code": "CONFIG_EXCLUDED",
+        "subject": "config/zoomify.json",
+        "message": "Zoomify mod not installed in SweetCraft pack"
+      }
+    ]
+  },
+  "comparison": {
+    "clientJarCount": 110,
+    "serverJarCount": 94,
+    "commonJarCount": 84,
+    "clientOnlyJarCount": 26,
+    "serverOnlyJarCount": 10,
+    "clientMissingInCatalog": [],
+    "serverMissingInCatalog": [],
+    "catalogNotOnClient": [],
+    "catalogNotOnServer": [],
+    "catalogOrphans": [],
+    "hashMismatch": [],
+    "sideMismatch": []
+  },
+  "spotChecks": {
+    "alexsmobs_codxlib": [
+      {
+        "mod_id": "alexsmobs",
+        "jar": "alexsmobs-2.1.6-fabric+26.1.2.jar",
+        "version": "2.1.6",
+        "side_class": "BOTH_REQUIRED",
+        "install_client": true,
+        "install_server": true,
+        "sha256": "a1f5bd02051a514188e18e6f5dbc3af01233118a57aa19a7fde5c9406e6a3f18",
+        "parse_error": null,
+        "nested": 0,
+        "provides": 0
+      },
+      {
+        "mod_id": "codxlib",
+        "jar": "codxlib-1.5.1-fabric+26.1.2.jar",
+        "version": "1.5.1",
+        "side_class": "BOTH_REQUIRED",
+        "install_client": true,
+        "install_server": true,
+        "sha256": "0348b8414ac8cc6e8364788d55da3b02abbaace43ee1213fca0d33ca7a6d93d4",
+        "parse_error": null,
+        "nested": 0,
+        "provides": 0
+      }
+    ],
+    "fallen_graves": [
+      {
+        "mod_id": "fallen",
+        "jar": "fallen-1.3.0+mc26.1.2.jar",
+        "version": "1.3.0+mc26.1.2",
+        "side_class": "BOTH_REQUIRED",
+        "install_client": true,
+        "install_server": true,
+        "sha256": "1aec43fcde59cdf6318d92b2c2200c449455b95955375ae6cd5043ccca9ed2b1",
+        "parse_error": null,
+        "nested": 0,
+        "provides": 0
+      }
+    ],
+    "betterend": [
+      {
+        "mod_id": "betterend",
+        "jar": "better-end-26.101.2.jar",
+        "version": "26.101.2",
+        "side_class": "BOTH_REQUIRED",
+        "install_client": true,
+        "install_server": true,
+        "sha256": "11bd14f8bf4b7e0a1bc4e2c4ebc26cfc57218f2270516f3d21ed6d5b4e4078ab",
+        "parse_error": null,
+        "nested": 0,
+        "provides": 0
+      }
+    ],
+    "worldgen": [
+      {
+        "mod_id": "cristellib",
+        "jar": "cristellib-fabric-26.1.2-3.1.11.jar",
+        "version": "3.1.11",
+        "side_class": "BOTH_REQUIRED",
+        "install_client": true,
+        "install_server": true,
+        "sha256": "390fa91fec85f0948c3f67cd42fcf0b1745183eda81c19dacb5fd5f690aaa4e2",
+        "parse_error": null,
+        "nested": 1,
+        "provides": 0
+      },
+      {
+        "mod_id": "lithostitched",
+        "jar": "lithostitched-1.8.0+beta4-fabric-26.1.jar",
+        "version": "1.8.0+beta4",
+        "side_class": "BOTH_REQUIRED",
+        "install_client": true,
+        "install_server": true,
+        "sha256": "21e0b718f254eefcdecc3f2298e1bdfd5d27c4baf006084ecde286100f28624e",
+        "parse_error": null,
+        "nested": 2,
+        "provides": 0
+      },
+      {
+        "mod_id": "structory",
+        "jar": "Structory_26.2_v1.3.7.jar",
+        "version": "1.3.17",
+        "side_class": "BOTH_REQUIRED",
+        "install_client": true,
+        "install_server": true,
+        "sha256": "e9079b2bb9bc2efb9b0f1244376488e41f8b50f25415094d8f03dc753cdfb131",
+        "parse_error": null,
+        "nested": 0,
+        "provides": 0
+      },
+      {
+        "mod_id": "t_and_t",
+        "jar": "t_and_t-fabric-neoforge-1.13.11.jar",
+        "version": "1.13.11",
+        "side_class": "BOTH_REQUIRED",
+        "install_client": true,
+        "install_server": true,
+        "sha256": "13b38f18cff6103b02f2b7d768b0d495edb8969df724e1538e13ce5bcc05f8be",
+        "parse_error": null,
+        "nested": 0,
+        "provides": 0
+      },
+      {
+        "mod_id": "terralith",
+        "jar": "Terralith_26.1_v2.6.2_Fabric.jar",
+        "version": "2.6.2",
+        "side_class": "BOTH_REQUIRED",
+        "install_client": true,
+        "install_server": true,
+        "sha256": "a07b50381d688d11893f162f2d29cd3ea4cefafd2f8ac010e700f56394747ab7",
+        "parse_error": null,
+        "nested": 0,
+        "provides": 0
+      }
+    ],
+    "yung": [
+      {
+        "id": "bettercaves",
+        "jar": "YungsBetterCaves-26.1.2-Fabric-4.1.1.jar",
+        "side": "BOTH_REQUIRED"
+      },
+      {
+        "id": "betterdeserttemples",
+        "jar": "YungsBetterDesertTemples-26.1.2-Fabric-5.1.0.jar",
+        "side": "BOTH_REQUIRED"
+      },
+      {
+        "id": "betterdungeons",
+        "jar": "YungsBetterDungeons-26.1.2-Fabric-6.1.0.jar",
+        "side": "BOTH_REQUIRED"
+      },
+      {
+        "id": "betterfortresses",
+        "jar": "YungsBetterNetherFortresses-26.1.2-Fabric-4.1.0.jar",
+        "side": "BOTH_REQUIRED"
+      },
+      {
+        "id": "betterjungletemples",
+        "jar": "YungsBetterJungleTemples-26.1.2-Fabric-4.1.0.jar",
+        "side": "BOTH_REQUIRED"
+      },
+      {
+        "id": "bettermineshafts",
+        "jar": "YungsBetterMineshafts-26.1.2-Fabric-6.1.0.jar",
+        "side": "BOTH_REQUIRED"
+      },
+      {
+        "id": "betteroceanmonuments",
+        "jar": "YungsBetterOceanMonuments-26.1.2-Fabric-5.1.0.jar",
+        "side": "BOTH_REQUIRED"
+      },
+      {
+        "id": "betterstrongholds",
+        "jar": "YungsBetterStrongholds-26.1.2-Fabric-6.1.0.jar",
+        "side": "BOTH_REQUIRED"
+      },
+      {
+        "id": "betterwitchhuts",
+        "jar": "YungsBetterWitchHuts-26.1.2-Fabric-5.1.0.jar",
+        "side": "BOTH_REQUIRED"
+      },
+      {
+        "id": "yungsapi",
+        "jar": "YungsApi-26.1.2-Fabric-6.1.2.jar",
+        "side": "BOTH_REQUIRED"
+      },
+      {
+        "id": "yungsbridges",
+        "jar": "YungsBridges-26.1.2-Fabric-6.1.0.jar",
+        "side": "BOTH_REQUIRED"
+      },
+      {
+        "id": "yungscavebiomes",
+        "jar": "YungsCaveBiomes-26.1.2-Fabric-4.1.1.jar",
+        "side": "BOTH_REQUIRED"
+      },
+      {
+        "id": "yungsextras",
+        "jar": "YungsExtras-26.1.2-Fabric-6.1.0.jar",
+        "side": "BOTH_REQUIRED"
+      }
+    ],
+    "fabricApi": [
+      {
+        "mod_id": "fabric-api",
+        "jar": "fabric-api-0.155.2+26.1.2.jar",
+        "version": "0.155.2+26.1.2",
+        "side_class": "BOTH_REQUIRED",
+        "install_client": true,
+        "install_server": true,
+        "sha256": "7196f2d8700cf906676db98cc13cd4b98267c4ca4ba3e8c516e62070b21a5a3a",
+        "parse_error": null,
+        "nested": 43,
+        "provides": 0
+      }
+    ]
+  },
+  "catalogsWritten": [
+    "data/catalog.clean.scan.json",
+    "data/catalog.baseline.json",
+    "data/catalog.curated.json",
+    "data/catalog.modrinth.json",
+    "data/catalog.providers.json",
+    "data/catalog.configs.json"
+  ]
+}

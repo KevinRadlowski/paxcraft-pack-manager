@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "provenance": "SweetCraft 0.1.3 seq4 dry-run-release-hosted client-manifest — hash-gated VALIDATED_PRIOR_RELEASE_CF metadata",
+  "sourceRelease": "0.1.3-seq4-NONPUBLISHABLE",
+  "entries": [
+    {
+      "mod_id": "ftbfiltersystem",
+      "sha256": "40e6b93412309a2d906269d8b40e0df133dc7beff8a8585ff20cbc76b7a62a27",
+      "curseforge_project_id": 943925,
+      "curseforge_file_id": 8300190,
+      "curseforge_file_url": "https://edge.forgecdn.net/files/8300/190/ftb-filter-system-fabric-26.1.2.2.jar"
+    },
+    {
+      "mod_id": "ftblibrary",
+      "sha256": "78b085a1834bf594b4333a9074da8560e32d3aa83c3bcf8b187d4e934dc7a7fb",
+      "curseforge_project_id": 438495,
+      "curseforge_file_id": 8574543,
+      "curseforge_file_url": "https://edge.forgecdn.net/files/8574/543/ftb-library-fabric-26.1.2.7.jar"
+    },
+    {
+      "mod_id": "ftbquests",
+      "sha256": "293c99c92994840e64db4dc39d24e7b045e68b3797f69e5be3aa817faa094a8e",
+      "curseforge_project_id": 438496,
+      "curseforge_file_id": 8730541,
+      "curseforge_file_url": "https://edge.forgecdn.net/files/8730/541/ftb-quests-fabric-26.1.2.7.jar"
+    },
+    {
+      "mod_id": "ftbteams",
+      "sha256": "4e3f4a0c11eec92c891972a344ae0e28a743b8c98e58a466b3ce4ba87f4e88f3",
+      "curseforge_project_id": 438497,
+      "curseforge_file_id": 8074006,
+      "curseforge_file_url": "https://edge.forgecdn.net/files/8074/6/ftb-teams-fabric-26.1.2.4.jar"
+    },
+    {
+      "mod_id": "ftbxmodcompat",
+      "sha256": "8d6b36f35ed0088e1f8d88935ff44c82bd0bbc8cdb8d97a1374d785e18dc77ff",
+      "curseforge_project_id": 889915,
+      "curseforge_file_id": 8678092,
+      "curseforge_file_url": "https://edge.forgecdn.net/files/8678/92/ftb-xmod-compat-fabric-26.1.2.4.jar"
+    }
+  ]
+}
