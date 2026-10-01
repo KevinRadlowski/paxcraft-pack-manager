@@ -6,4 +6,7 @@
 | `DATA_PRESERVATION.md` | Conservé sur disque vs hors Git (`data/`) |
 | `inventory-source.json` | Fichiers utiles + SHA256 |
 | `inventory-artefacts.json` | Artefacts historiques (séparés) |
-| `inventory-coverage.json` | Synthèse de couverture |
+| `inventory-coverage.json` | Synthèse de couverture — snapshot PACK-PAX-02 |
+| `PACK-PAX-03.md` | Commit baseline + résultats install/build/tests |
+| `PACK-PAX-03.1.md` | Note : CI fix côté launcher ; tsconfig.origin documenté |
+| `logs/` | Journaux validation (gitignorés) |
